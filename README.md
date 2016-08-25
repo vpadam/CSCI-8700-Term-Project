@@ -40,6 +40,8 @@ Okay, we need our final team formation and some preliminary project ideas.  Feel
 
 18.Chrome add-in to look at your search history and create a custom book wishlist based on your searches (like what amazon does, but it would take history from all of your sites).  
 
+20.App to create tests based on professor's lecture notes. This would be a good way to review the material before a test.
+
 --------------------------GUIDELINES FOR PART 1--------------------------
 
 Write a project proposal - the project can be any software application which benefits society
