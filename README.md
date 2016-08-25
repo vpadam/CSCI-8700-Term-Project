@@ -16,7 +16,7 @@ Okay, we need our final team formation and some preliminary project ideas.  Feel
 
 6.App that shows positive/negative news about companies to predict changes in stock prices
 
-7.Online Examination System (will generate some question and lastly will show total score)
+7.Online Examination System (will generate some question and lastly will show total score) 
 
 8.Restaurant/Flight Reservation System
 
@@ -27,6 +27,8 @@ Okay, we need our final team formation and some preliminary project ideas.  Feel
 11.App to make forests/trees of related ideas from notes (helps with studying).
 
 12.Time management app, like a calendar with reminders
+
+13.App to automatically create flashcards from notes, i.e. from a word document
 
 
 --------------------------GUIDELINES FOR PART 1--------------------------
