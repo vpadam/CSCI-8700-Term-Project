@@ -42,6 +42,10 @@ Okay, we need our final team formation and some preliminary project ideas.  Feel
 
 20.App to create tests based on professor's lecture notes. This would be a good way to review the material before a test.
 
+21.Uber app for parking at UNO.  People share that they are leaving and receive $1 if they exchange their parking spot with someone looking for one.
+
+22.Maybe an online app that tells students where the open parking spots are at UNO.  There would have to be some way to detect empty/full parking spots on campus.
+
 --------------------------GUIDELINES FOR PART 1--------------------------
 
 Write a project proposal - the project can be any software application which benefits society
