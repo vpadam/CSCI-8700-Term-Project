@@ -26,7 +26,7 @@ Okay, we need our final team formation and some preliminary project ideas.  Feel
 
 11.App to make forests/trees of related ideas from notes (helps with studying).
 
-12.Time management app
+12.Time management app, like a calendar with reminders
 
 
 --------------------------GUIDELINES FOR PART 1--------------------------
