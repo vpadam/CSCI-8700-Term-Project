@@ -38,6 +38,8 @@ Okay, we need our final team formation and some preliminary project ideas.  Feel
 
 17.Maybe a program that write a majority of its own code.  It would take the description and search the internet for examples.  It would then include these examples in its code.  
 
+18.Chrome add-in to look at your search history and create a custom book wishlist based on your searches (like what amazon does, but it would take history from all of your sites).  
+
 --------------------------GUIDELINES FOR PART 1--------------------------
 
 Write a project proposal - the project can be any software application which benefits society
