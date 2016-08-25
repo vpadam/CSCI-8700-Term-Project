@@ -30,6 +30,8 @@ Okay, we need our final team formation and some preliminary project ideas.  Feel
 
 13.App to automatically create flashcards from notes, i.e. from a word document
 
+14.Software that identifies potentially old/outdated comments in a github project (since comments tend to not be well managed/updated throughout a project)
+
 
 --------------------------GUIDELINES FOR PART 1--------------------------
 
