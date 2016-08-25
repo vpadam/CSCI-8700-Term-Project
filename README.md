@@ -32,6 +32,11 @@ Okay, we need our final team formation and some preliminary project ideas.  Feel
 
 14.Software that identifies potentially old/outdated comments in a github project (since comments tend to not be well managed/updated throughout a project)
 
+15.Software to help beginner programmers to program better, e.g. help with organization and overall structure.  It could also gather information from stackoverflow to help them answer relevant questions.  
+
+16.What about a program that helps programmers stick to naming conventions, e.g. Python or Java have different naming conventions (camel case, pascal case).  The program would suggest the program modifies the name.  Visual Studio does this for visual studio and it is really helpful.  I wish other IDEs had this built in.  It really helps you stay consistent across your code and improves readability.
+
+17.Maybe a program that write a majority of its own code.  It would take the description and search the internet for examples.  It would then include these examples in its code.  
 
 --------------------------GUIDELINES FOR PART 1--------------------------
 
