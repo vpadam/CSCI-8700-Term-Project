@@ -3,8 +3,8 @@ Term Project for CSCI 8700 with Dr. Harvey Siy
 Okay, we need our final team formation and some preliminary project ideas.  Feel free to list your ideas below under PROJECT IDEAS.
 
 PROJECT IDEAS
-1.Online Music Store where customers can buy/upload music\n
-2.Software license manager to better track software subscriptions (what one has/when it needs to be updated/costs)\n
+1.Online Music Store where customers can buy/upload music
+2.Software license manager to better track software subscriptions (what one has/when it needs to be updated/costs)
 3.Software that analyzes resumes and finds the best potential employee for different jobs (machine learning)
 4.App that creates test study sheets from notes
 5.Plagarism detection software for literature reviews
