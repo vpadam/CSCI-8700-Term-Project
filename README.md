@@ -8,6 +8,7 @@ PROJECT IDEAS
 3.Software that analyzes resumes and finds the best potential employee for different jobs (machine learning)
 4.App that creates test study sheets from notes
 5.Plagarism detection software for literature reviews
+6.App that shows positive/negative news about companies to predict changes in stock prices
 
 GUIDLINES FOR PART 1
 
