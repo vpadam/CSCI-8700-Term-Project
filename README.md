@@ -3,6 +3,7 @@ Term Project for CSCI 8700 with Dr. Harvey Siy
 Okay, we need our final team formation and some preliminary project ideas.  Feel free to list your ideas below under PROJECT IDEAS.
 
 PROJECT IDEAS
+
 1.Online Music Store where customers can buy/upload music
 
 2.Software license manager to better track software subscriptions (what one has/when it needs to be updated/costs)
@@ -23,6 +24,8 @@ PROJECT IDEAS
 
 10.E-learing (similar to W3SCHOOL?)
 
+
+
 GUIDELINES FOR PART 1
 
 Write a project proposal - the project can be any software application which benefits society
@@ -40,6 +43,8 @@ Create the prototypes: for each user story, develop a set of screen mockups.
 Create a quick-and-dirty implementation of a subset of the user stories (to be specified by instructor) to prove that it is realizable.
 
 Develop a set of acceptance tests for determining if the implementation conforms with the specification
+
+
 
 SCHEDULE
 8/26: communicate intent (email me your intent regarding team formation and some preliminary project ideas)
