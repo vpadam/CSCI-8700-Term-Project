@@ -9,8 +9,12 @@ PROJECT IDEAS
 4.App that creates test study sheets from notes
 5.Plagarism detection software for literature reviews
 6.App that shows positive/negative news about companies to predict changes in stock prices
+7.Online Examination System (will generate some question and lastly will show total score)
+8.Restaurant/Flight Reservation System
+9.Online Books Library/ Shopping (we can keep limited departments for online shopping)
+10.E-learing (similar to W3SCHOOL?)
 
-GUIDLINES FOR PART 1
+GUIDELINES FOR PART 1
 
 Write a project proposal - the project can be any software application which benefits society
 Define the context of the problem.
