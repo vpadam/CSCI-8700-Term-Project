@@ -23,14 +23,15 @@ Team
 9/7: set up shared Google folder, project tracking, and version control site
 
 --------------------------To-do list--------------------------
+   1.update your team relationships for the team project, https://docs.google.com/document/d/1ILcr3btSyqs2Z0WNB-UgxWDhSCBBwE5fvJuJeEN4eFo/edit
 
-   1.project proposal statement
+   2.project proposal statement
 
-   2.list of user stories
+   3.list of user stories
 
-   3.team member responsibilities listed
+   4.team member responsibilities listed
 
-   4.get project tracking up and running
+   5.get project tracking up and running
 
 
 --------------------------GUIDELINES FOR PART 1--------------------------
