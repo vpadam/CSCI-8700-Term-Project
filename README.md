@@ -22,7 +22,7 @@ Team
 
 9/7: set up shared Google folder, project tracking, and version control site
 
-To-do list------------------------------------
+--------------------------To-do list--------------------------
 
  1.project proposal statement
 
