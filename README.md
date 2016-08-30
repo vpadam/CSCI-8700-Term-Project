@@ -1,50 +1,38 @@
 # CSCI-8700-Term-Project
 Term Project for CSCI 8700 with Dr. Harvey Siy
-Okay, we need our final team formation and some preliminary project ideas.  Feel free to list your ideas below under PROJECT IDEAS.
 
---------------------------PROJECT IDEAS--------------------------
+Team
+1. Chad Crowe
+2. Rucha Mayekar
+3. Vaishnavi Naidu Padam
+4.Manjula Dhaninkula
+5.James Adeola
 
-1.Online Music Store where customers can buy/upload music
+Ideas
 
-2.Software license manager to better track software subscriptions (what one has/when it needs to be updated/costs)
+1.Uber app for parking at UNO. People share that they are leaving and receive $1 if they exchange their parking spot with someone looking for one.
 
-3.Software that analyzes resumes and finds the best potential employee for different jobs (machine learning)
+2.App to automatically create flashcards from notes, i.e. from a word document
 
-4.App that creates test study sheets from notes
+3.A website for Pet adoption
+   An approach to reduce animal abuse through legal pet adoption. Provide a platform for advertise Pet products.
+   
+--------------------------Next Due Date: 9/7--------------------------
 
-5.Plagarism detection software for literature reviews
+9/7: project proposal + list of user stories + team member responsibilities
 
-6.App that shows positive/negative news about companies to predict changes in stock prices
+9/7: set up shared Google folder, project tracking, and version control site
 
-7.Online Examination System (will generate some question and lastly will show total score) 
+Todo list------------------------------------
 
-8.Restaurant/Flight Reservation System
+1.project proposal statement
 
-9.Online Books Library/ Shopping (we can keep limited departments for online shopping)
+2. list of user stories
 
-10.E-learing (similar to W3SCHOOL?)
+3. team member responsibilities listed
 
-11.App to make forests/trees of related ideas from notes (helps with studying).
+4. get project tracking up and running
 
-12.Time management app, like a calendar with reminders
-
-13.App to automatically create flashcards from notes, i.e. from a word document
-
-14.Software that identifies potentially old/outdated comments in a github project (since comments tend to not be well managed/updated throughout a project)
-
-15.Software to help beginner programmers to program better, e.g. help with organization and overall structure.  It could also gather information from stackoverflow to help them answer relevant questions.  
-
-16.What about a program that helps programmers stick to naming conventions, e.g. Python or Java have different naming conventions (camel case, pascal case).  The program would suggest the program modifies the name.  Visual Studio does this for visual studio and it is really helpful.  I wish other IDEs had this built in.  It really helps you stay consistent across your code and improves readability.
-
-17.Maybe a program that write a majority of its own code.  It would take the description and search the internet for examples.  It would then include these examples in its code.  
-
-18.Chrome add-in to look at your search history and create a custom book wishlist based on your searches (like what amazon does, but it would take history from all of your sites).  
-
-20.App to create tests based on professor's lecture notes. This would be a good way to review the material before a test.
-
-21.Uber app for parking at UNO.  People share that they are leaving and receive $1 if they exchange their parking spot with someone looking for one.
-
-22.Maybe an online app that tells students where the open parking spots are at UNO.  There would have to be some way to detect empty/full parking spots on campus.
 
 --------------------------GUIDELINES FOR PART 1--------------------------
 
