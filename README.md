@@ -8,7 +8,7 @@ Team
 4.Manjula Dhaninkula
 5.James Adeola
 
-Ideas
+--------------------------Ideas--------------------------
 
 1.Uber app for parking at UNO. People share that they are leaving and receive $1 if they exchange their parking spot with someone looking for one.
 
@@ -23,7 +23,7 @@ Ideas
 
 9/7: set up shared Google folder, project tracking, and version control site
 
-Todo list------------------------------------
+To-do list------------------------------------
 
 1.project proposal statement
 
