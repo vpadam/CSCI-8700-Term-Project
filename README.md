@@ -24,13 +24,13 @@ Team
 
 --------------------------To-do list--------------------------
 
-1.project proposal statement
+   1.project proposal statement
 
-2. list of user stories
+   2.list of user stories
 
-3. team member responsibilities listed
+   3.team member responsibilities listed
 
-4. get project tracking up and running
+   4.get project tracking up and running
 
 
 --------------------------GUIDELINES FOR PART 1--------------------------
