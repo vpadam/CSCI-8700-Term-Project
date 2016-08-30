@@ -14,8 +14,7 @@ Team
 
 2.App to automatically create flashcards from notes, i.e. from a word document
 
-3.A website for Pet adoption
-   An approach to reduce animal abuse through legal pet adoption. Provide a platform for advertise Pet products.
+3.A website for Pet adoption.  An approach to reduce animal abuse through legal pet adoption. Provide a platform for advertise Pet products.
    
 --------------------------Next Due Date: 9/7--------------------------
 
