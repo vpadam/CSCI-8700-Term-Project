@@ -11,28 +11,16 @@ Team
 --------------------------Ideas--------------------------
 
 1.Uber app for parking at UNO. People share that they are leaving and receive $1 if they exchange their parking spot with someone looking for one.
-
-2.App to automatically create flashcards from notes, i.e. from a word document
-
-3.A website for Pet adoption.  An approach to reduce animal abuse through legal pet adoption. Provide a platform for advertise Pet products.
    
---------------------------Next Due Date: 9/7--------------------------
+--------------------------Next Due Date: 9/24--------------------------
 
-9/7: project proposal + list of user stories + team member responsibilities
-
-9/7: set up shared Google folder, project tracking, and version control site
+9/24: initial requirements specification document + screen mockups
 
 --------------------------To-do list--------------------------
 
-   1.update your team relationships for the team project, https://docs.google.com/document/d/1ILcr3btSyqs2Z0WNB-UgxWDhSCBBwE5fvJuJeEN4eFo/edit
-
-   2.project proposal statement
-
-   3.list of user stories
-
-   4.team member responsibilities listed
-
-   5.get project tracking up and running
+   1.Start creating screen mockups
+   
+   2.Create initial requirements specification document
 
 
 --------------------------GUIDELINES FOR PART 1--------------------------
