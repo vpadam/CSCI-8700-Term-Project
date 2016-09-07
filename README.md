@@ -10,7 +10,7 @@ Team
 
 --------------------------Ideas--------------------------
 
-1.Uber app for parking at UNO. People share that they are leaving and receive $1 if they exchange their parking spot with someone looking for one.
+1.Uber app for parking at UNO. People share that they are leaving and receive $0.50 if they exchange their parking spot with someone looking for one.
    
 --------------------------Next Due Date: 9/24--------------------------
 
