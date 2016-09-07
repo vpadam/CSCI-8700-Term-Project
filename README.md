@@ -16,6 +16,8 @@ Team
 
 9/24: initial requirements specification document + screen mockups
 
+Use https://themes.getbootstrap.com/products/dashboard for your css and what not for the screen mockups
+
 --------------------------To-do list--------------------------
 
    1.Start creating screen mockups
